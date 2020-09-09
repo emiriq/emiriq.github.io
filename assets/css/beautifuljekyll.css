@@ -681,7 +681,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 @media (min-width: 768px) {
   .intro-header {
-    margin-top: 12.125rem;
+    margin-top: 15.125rem;
   }
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
